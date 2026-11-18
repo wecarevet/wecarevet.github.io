@@ -9,6 +9,10 @@ Disallow: /wecarevet/cri_calculator.html
 Disallow: /wecarevet/research.html
 Disallow: /wecarevet/etf-sim.html
 Disallow: /wecarevet/lol-manager.html
+Disallow: /wecarevet/dose.html
+Disallow: /wecarevet/remind.html
+Disallow: /wecarevet/consent.html
+Disallow: /wecarevet/checklist.html
 Disallow: /wecarevet/papers.json
 
 Sitemap: https://wecarevet.github.io/wecarevet/sitemap.xml
