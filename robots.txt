@@ -1,0 +1,14 @@
+# 위케어동물의료센터 — 호스트 루트 robots.txt
+# 크롤러는 호스트 루트의 robots.txt만 읽습니다. 보호자 안내 사이트(/wecarevet/)의 수집 규칙은 이 파일이 적용됩니다.
+User-agent: *
+Allow: /wecarevet/
+Disallow: /wecarevet/staff.html
+Disallow: /wecarevet/soap.html
+Disallow: /wecarevet/discharge.html
+Disallow: /wecarevet/cri_calculator.html
+Disallow: /wecarevet/research.html
+Disallow: /wecarevet/etf-sim.html
+Disallow: /wecarevet/lol-manager.html
+Disallow: /wecarevet/papers.json
+
+Sitemap: https://wecarevet.github.io/wecarevet/sitemap.xml
