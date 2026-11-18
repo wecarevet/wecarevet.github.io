@@ -16,6 +16,8 @@ Disallow: /wecarevet/checklist.html
 Disallow: /wecarevet/papers.json
 Disallow: /wecarevet/stocks.html
 Disallow: /wecarevet/my.html
+Disallow: /wecarevet/life.html
+Disallow: /wecarevet/life-app.js
 Disallow: /wecarevet/stocks.json
 Disallow: /wecarevet/report.html
 
