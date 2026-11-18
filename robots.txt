@@ -14,5 +14,9 @@ Disallow: /wecarevet/remind.html
 Disallow: /wecarevet/consent.html
 Disallow: /wecarevet/checklist.html
 Disallow: /wecarevet/papers.json
+Disallow: /wecarevet/stocks.html
+Disallow: /wecarevet/my.html
+Disallow: /wecarevet/stocks.json
+Disallow: /wecarevet/report.html
 
 Sitemap: https://wecarevet.github.io/wecarevet/sitemap.xml
